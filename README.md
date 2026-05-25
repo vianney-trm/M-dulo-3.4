@@ -57,6 +57,6 @@ Java, PostgreSQL
 
 Seguir creciendo como desarrolladora de software, participando en proyectos innovadores que me permitan aportar soluciones tecnológicas eficientes y adquirir experiencia en el ámbito profesional.
 
----
+https://res.cloudinary.com/df6nlwpge/image/upload/q_auto/f_auto/v1779730101/WhatsApp_Image_2026-05-25_at_11.27.47_AM_tk5zxc.jpg
 
 ⭐ *Siempre aprendiendo, siempre construyendo.*
