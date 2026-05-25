@@ -59,12 +59,4 @@ Seguir creciendo como desarrolladora de software, participando en proyectos inno
 
 ---
 
-## 📫 Contacto
-
-📧 Email: tucorreo@ejemplo.com  
-💼 LinkedIn: https://linkedin.com/in/tuusuario  
-🐙 GitHub: https://github.com/tuusuario
-
----
-
 ⭐ *Siempre aprendiendo, siempre construyendo.*
