@@ -1,11 +1,25 @@
-# M-dulo-3.4
+# M-dulo
 ¡Hola! 👋 Soy Vianney Saenz
 
 <p align="center">
-  <img src="https://res.cloudinary.com/df6nlwpge/image/upload/q_auto/f_auto/v1779730101/WhatsApp_Image_2026-05-25_at_11.27.47_AM_tk5zxc.jpg" width="200" style="border-radius:50%;" alt="Foto de perfil">
+  <img src="https://res.cloudinary.com/df6nlwpge/image/upload/q_auto/f_auto/v1779730101/WhatsApp_Image_2026-05-25_at_11.27.47_AM_tk5zxc.jpg" width="200" alt="Foto de perfil">
 </p>
 
-<h3 align="center">💻 Desarrolladora en formación | Estudiante de Informática</h3>
+<h3 align="center">💻 Estudiante de Informática</h3>
+
+<p align="center">
+  <a href="https://github.com/tuusuario">
+    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+  <a href="https://linkedin.com/in/tuusuario">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="mailto:tucorreo@ejemplo.com">
+    <img src="https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -71,13 +85,6 @@ Seguir creciendo como desarrolladora de software, participando en proyectos inno
 
 ## 📫 Contacto
 
-📧 Email: tucorreo@ejemplo.com  
-🐙 GitHub: https://github.com/tuusuario  
-💼 LinkedIn: https://linkedin.com/in/tuusuario
-
----
-
-⭐ **Siempre aprendiendo, siempre construyendo.**
----
-
-⭐ **Siempre aprendiendo, siempre construyendo.**
+📧 **Email:** [tucorreo@ejemplo.com](mailto:tucorreo@ejemplo.com)  
+🐙 **GitHub:** [https://github.com/tuusuario](https://github.com/tuusuario)  
+💼 **LinkedIn:** [https://linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
