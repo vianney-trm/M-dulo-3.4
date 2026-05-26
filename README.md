@@ -1,11 +1,11 @@
 # M-dulo-3.4
-<h1 align="center">¡Hola! 👋 Soy Vianney Saenz</h1>
+¡Hola! 👋 Soy Vianney Saenz
 
 <p align="center">
   <img src="https://res.cloudinary.com/df6nlwpge/image/upload/q_auto/f_auto/v1779730101/WhatsApp_Image_2026-05-25_at_11.27.47_AM_tk5zxc.jpg" width="200" style="border-radius:50%;" alt="Foto de perfil">
 </p>
 
-<h3 align="center">💻 Estudiante de Informática</h3>
+<h3 align="center">💻 Desarrolladora en formación | Estudiante de Informática</h3>
 
 ---
 
@@ -75,6 +75,9 @@ Seguir creciendo como desarrolladora de software, participando en proyectos inno
 🐙 GitHub: https://github.com/tuusuario  
 💼 LinkedIn: https://linkedin.com/in/tuusuario
 
+---
+
+⭐ **Siempre aprendiendo, siempre construyendo.**
 ---
 
 ⭐ **Siempre aprendiendo, siempre construyendo.**
