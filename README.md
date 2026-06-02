@@ -88,3 +88,7 @@ Seguir creciendo como desarrolladora de software, participando en proyectos inno
 📧 **Email:** [tucorreo@ejemplo.com](mailto:tucorreo@ejemplo.com)  
 🐙 **GitHub:** [https://github.com/tuusuario](https://github.com/tuusuario)  
 💼 **LinkedIn:** [https://linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+
+
+[Texto del párrafo.pptx](https://github.com/user-attachments/files/28516078/Texto.del.parrafo.pptx)
+
